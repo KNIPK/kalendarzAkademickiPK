@@ -1,0 +1,21 @@
+<resources>
+
+    <string name="app_name">e-Kalendarz Akademicki PK</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+	
+    <string name="cal_ins_sch_but1">Zapisz</string>
+    <string name="cal_ins_sch_but2">Anuluj</string>
+    <string name="cal_ins_sch_but3">Usuń</string>
+    <string name="cal_ins_sch_et1_hint">Temat</string>
+    <string name="cal_ins_sch_et2_hint">Wpisz powiadomienie...</string>
+    <string name="cal_ins_sch_tv1">Podaj date</string>
+    <string name="cal_ins_sch_tv2">Podaj godzine</string>
+    
+    <string name="menu_calendar">Kalendarz</string>
+    <string name="menu_forum">Forum</string>
+    <string name="menu_author">Autor</string>
+    <string name="menu_exit">Wyjscie</string>
+    
+</resources>
